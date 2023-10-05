@@ -1,0 +1,42 @@
+h1
+{
+    left: 0;
+    line-height: 160px;
+    margin-top: -365px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-family: monospace;
+    font-size: 60px;
+    color: #313638;
+}
+p
+{
+    left: 0;
+    line-height: 20px;
+    margin-top: -350px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-family: monospace;
+    font-size: 20px;
+}
+p2
+{
+    left: 0;
+    line-height: 1900px;
+    margin-top: -325px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+body
+{
+    background-color: #FAF9F6;
+}

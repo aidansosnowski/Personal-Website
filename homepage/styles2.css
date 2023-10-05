@@ -1,0 +1,42 @@
+
+h1
+{
+    left: 0;
+    line-height: 160px;
+    margin-top: 600px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-family: monospace;
+    font-size: 60px;
+    color: #313638;
+}
+p
+{
+    left: 0;
+    line-height: 20px;
+    margin-top: 10px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-family: monospace;
+    font-size: 20px;
+}
+h2
+{
+    left: 0;
+    line-height: 100px;
+    margin-top: 1525px;
+    padding-left: 300px;
+    top: 50%;
+    width: 100%;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+body
+{
+    background-color: #FAF9F6;
+}

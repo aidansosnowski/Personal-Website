@@ -1,0 +1,39 @@
+html
+{
+    scroll-behavior: smooth;
+    height: calc(100%-150px);
+    width: 100%;
+    margin-top: 50px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+h1
+{
+    left: 0;
+    line-height: 160px;
+    margin-top: -110px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-family: monospace;
+    font-size: 60px;
+    color: #313638;
+}
+p
+{
+    left: 0;
+    line-height: 20px;
+    margin-top: 10px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+body
+{
+    background-color: #FAF9F6;
+}
